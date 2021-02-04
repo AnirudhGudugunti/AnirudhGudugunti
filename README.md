@@ -6,7 +6,7 @@ Hi 👋, I am Anirudh
 <p align="left"> <a href="https://twitter.com/AnirudhG5" target="blank"><img src="https://img.shields.io/twitter/follow/AnirudhG5?logo=twitter&style=for-the-badge" alt="Anirudhg5" /></a> </p>
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web developement
 - 👯 I’m looking to collaborate on any projects related to front end development
 - 📫 How to reach me: anirudhg2308@gmail.com
 
@@ -16,7 +16,8 @@ Hi 👋, I am Anirudh
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhgudugunti&show_icons=true&locale=en&layout=compact" alt="anirudhgudugunti" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhgudugunti&show_icons=true&locale=en" alt="anirudhgudugunti" style"width:150px"/></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhgudugunti&show_icons=true&locale=en" alt="anirudhgudugunti" style"width:150px"/></p>-->
 
 
 
